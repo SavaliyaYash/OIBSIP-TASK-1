@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="app_name_splash">UnitConverter (lenght and weight)</string>
+    <string name="lenght">Lenght</string>
+    <string name="weight">Weight</string>
+    <string name="sellen">Select Length</string>
+    <string name="selwt">Select Weight</string>
+
+</resources>
